@@ -2,7 +2,7 @@
 
 This repository contains assignments for the **CS425: Computer Networks** course. Each assignment demonstrates practical implementation of networking concepts through hands-on projects.
 
-## 📚 Repository Structure
+## Repository Structure
 
 ```
 CS425-Assignments/
@@ -11,7 +11,7 @@ CS425-Assignments/
 └── README.md           # This file
 ```
 
-## 📋 Assignments
+##  Assignments
 
 ### [Assignment 1: Multi-Client Chat Server](./A1)
 
@@ -68,49 +68,11 @@ For detailed documentation, see [A2/README.md](./A2/README.md)
 
 ---
 
-## 👥 Contributors
 
-| Name | Roll Number |
-|------|-------------|
-| Prathamesh Baviskar | 220285 |
-| Ayushmaan Jay Singh | 220276 |
-| Mayank Gupta | 220638 |
 
-## 🛠️ Prerequisites
 
-### For Assignment 1 (Multi-Client Chat Server)
-- Linux operating system (epoll is Linux-specific)
-- C++ compiler with C++11 support
-- Make build system
 
-### For Assignment 2 (DNS Resolver)
-- Python 3.x
-- dnspython library (`pip install dnspython`)
-
-## 📖 Course Information
-
-**Course:** CS425 - Computer Networks  
-**Focus Areas:** Socket programming, Network protocols, Client-server architecture, DNS systems
-
-## 🔍 How to Navigate This Repository
-
-1. Each assignment is contained in its own directory (`A1/`, `A2/`, etc.)
-2. Each assignment directory contains:
-   - Source code files
-   - A detailed `README.md` with implementation details, testing procedures, and design decisions
-   - Any necessary configuration files or test data
-3. Refer to individual assignment READMEs for:
-   - Detailed implementation explanations
-   - How to compile and run
-   - Testing methodologies
-   - Design decisions and challenges faced
-
-## 📝 Assignment Topics Overview
-
-1. **A1 - Multi-Client Chat Server**: Explores event-driven programming, non-blocking I/O, and real-time communication between multiple clients
-2. **A2 - DNS Resolver**: Demonstrates understanding of DNS hierarchy, iterative vs recursive queries, and network protocol implementation
-
-## 🚀 Getting Started
+## Getting Started
 
 To explore any assignment:
 
@@ -127,21 +89,9 @@ To explore any assignment:
 
 3. Follow the instructions in the assignment-specific README
 
-## 📄 License
-
-This repository is for educational purposes as part of the CS425 course curriculum.
-
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - Course instructors and TAs for assignment design and guidance
 - Beej's Guide to Network Programming
 - dnspython documentation and community
 - Linux man pages and documentation
-
-## 📞 Contact
-
-For any questions or clarifications regarding these assignments, please refer to the individual contributor information or course communication channels.
-
----
-
-**Note:** These assignments were completed as part of academic coursework. All work is original and properly attributed where external resources were consulted.
